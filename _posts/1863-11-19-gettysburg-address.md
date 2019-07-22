@@ -1,14 +1,14 @@
 ---
 layout: post
 current: post
-cover: assets/images/bus.jpg
+cover: assets/images/posts/bus.jpg
 navigation: True
 title: Gettysburg Address
 date: 1863-11-19 10:18:00
-tags:
+tags: recetas-aplv
 class: post-template
-subclass: 'post'
-author: abraham
+subclass: 'post tag-recetas-aplv'
+author: mamapandastica
 ---
 
 Fourscore and seven years ago our fathers brought forth on this continent, a new nation, conceived in Liberty, and dedicated to the proposition that all men are created equal.
